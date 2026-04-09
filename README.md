@@ -1,2 +1,2 @@
 # test-gh
-# autor: Jaider España
+# Autor: Jaider España
